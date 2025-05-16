@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G1.BRASIL</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="t1_style.css">
+
+</head>
+<body>
+
+    <header>
+        <h1>Notícias Gerais</h1>
+        <br>
+        <h4>As notícias na palma da sua mão</h4>
+    </header>
+    <nav>
+        <a href="#notícias">Útimas Notícias</a>
+        <a href="#múicas">Músicas do Momento</a>
+        <a href="contato">Contatos</a>
+    </nav>
+
+    <div class="container">
+        <main>
+            <h2 id="notícias">Últimas Notícias</h2>
+            <img src="https://tvcinemaemusica.wordpress.com/wp-content/uploads/2011/07/charlie_brown_jr_1_pb.jpg" alt="biografia da banda Jarlie Brown">
+        </main>
+    </div>
+    
+</body>
+</html>
